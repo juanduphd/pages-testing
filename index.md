@@ -1,3 +1,11 @@
+## Resources
+
+[GitHub Pages examples](https://github.com/collections/github-pages-examples)
+
+
+----
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/juanduphd/pages-testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
